@@ -1,28 +1,28 @@
-<h1 align="center">Hi 👋, I'm Seoyeong Choi</h1>
+<h1 align="center">Hi, I'm Seoyeong Choi</h1>
 
-## 👋 About Me
+## About Me
 
 컴퓨터공학과 재학 중이며, 안정적인 서비스 운영을 위한 인프라 자동화에 관심을 가지고 있는 개발자입니다.
 
-- ☁️ **DevOps / AIOps / MLOps** 분야로 진로를 준비하고 있습니다
-- 🦁 멋쟁이사자처럼 중앙대학교 운영진으로 활동 중
-- 🚀 학교 봄 축제 웹사이트 프로젝트에서 CI/CD 자동화 및 Auto Scaling 인프라 구축 담당
-- 📚 현재 CJ올리브네트웍스 AI Cloud Wave 부트캠프 수강 중 (클라우드/AIOps)
-- ✍️ 학습 내용과 트러블슈팅 과정을 [velog](https://velog.io/@choidallae/posts)에 기록 중
+-  **DevOps / AIOps / MLOps** 분야로 진로를 준비하고 있습니다
+-  멋쟁이사자처럼 중앙대학교 운영진으로 활동 중
+-  학교 봄 축제 웹사이트 프로젝트에서 CI/CD 자동화 및 Auto Scaling 인프라 구축 담당
+-  현재 CJ올리브네트웍스 AI Cloud Wave 부트캠프 수강 중 (클라우드/AIOps)
+-  학습 내용과 트러블슈팅 과정을 [velog](https://velog.io/@choidallae/posts)에 기록 중
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 | 프로젝트 | 기간 | 설명 |
 |---|---|---|
-| **학교 봄 축제 웹사이트** | 2026.03 ~ 2026.05 | SpringBoot 백엔드 API 담당 + GitHub Actions + CodeDeploy 기반 CI/CD 자동화 담당 |
+| **LUCAUS 2026** | 2026.03 ~ 2026.05 | SpringBoot 백엔드 API 담당 + GitHub Actions + CodeDeploy 기반 CI/CD 자동화 담당 |
 | **Spring Boot 백엔드 프로젝트** | 2025.10 ~ 2025.11 | Spring Boot 기반 백엔드 API 개발 |
 | **Django 백엔드 프로젝트** | 2025.07 ~ 2025.08 | Django 기반 백엔드 개발 |
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages & Frameworks**
 
@@ -59,7 +59,7 @@
 
 ---
 
-## 📜 Certifications & Scores
+##  Certifications & Scores
 
 | 항목 | 점수 / 등급 | 취득일 |
 |---|---|---|
@@ -67,14 +67,14 @@
 
 ---
 
-## 🏠 Activities
+##  Activities
 
 - 멋쟁이사자처럼 중앙대학교 — 운영진
 - CJ올리브네트웍스 AI Cloud Wave (AIOps/Cloud) — 2026.06 ~
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dallaechoi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -83,7 +83,7 @@
 
 ---
 
-## 📫 Contact
+##  Contact
 
 <p align="left">
   <a href="https://velog.io/@choidallae/posts" target="_blank">
