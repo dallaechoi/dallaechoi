@@ -53,10 +53,12 @@
 |---|---|---|
 | SQLD | Certified | 2026.03 |
 ---
+
 ##  Activities
 - 멋쟁이사자처럼 중앙대학교 — 운영진
 - CJ올리브네트웍스 AI Cloud Wave (AIOps/Cloud) — 2026.06 ~
 ---
+
 ##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dallaechoi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
