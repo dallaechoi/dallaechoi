@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 최서영 (Seoyoung Choi)</h1>
+<h1 align="center">Hi 👋, I'm Seoyeong Choi</h1>
 
 ## 👋 About Me
 
@@ -70,7 +70,7 @@
 ## 🏠 Activities
 
 - 멋쟁이사자처럼 중앙대학교 — 운영진
-- CJ올리브네트웍스 AI Cloud Wave (AIOps/Cloud) — 2026.06 ~ 2026.08
+- CJ올리브네트웍스 AI Cloud Wave (AIOps/Cloud) — 2026.06 ~
 
 ---
 
